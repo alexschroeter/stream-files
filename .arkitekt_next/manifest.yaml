@@ -1,0 +1,6 @@
+author: Alexander Wilhelmi
+entrypoint: app
+identifier: stream-files
+scopes:
+- read
+version: 0.0.1

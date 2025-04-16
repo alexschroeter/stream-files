@@ -1,0 +1,4 @@
+'directory': "."
+'run_once': True
+'verbose': True
+'arkitekt-server': "go.arkitekt.live"
